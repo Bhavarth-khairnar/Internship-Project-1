@@ -13,11 +13,15 @@ A responsive and attractive front-end interface for displaying third-party adver
 ## Screenshots
 
 [Homepage](![Screenshot 2024-03-13 163147](https://github.com/Bhavarth-khairnar/Internship-Project-1/assets/156211565/c03ca2cd-c8c2-4a4f-a34a-6a8d34648942)
-)
+
+![AboutUs](![Screenshot 2024-06-19 171319](https://github.com/Bhavarth-khairnar/Internship-Project-1/assets/156211565/b5cd422d-b122-4e56-9af7-76f107314e7f)
+
 [Ad Display](![Screenshot 2024-03-13 163229](https://github.com/Bhavarth-khairnar/Internship-Project-1/assets/156211565/cc2a367a-bc40-4ca5-bfb5-bb886f5e450a)
-)
+
 [Counting Page](![Screenshot 2024-03-13 163147](https://github.com/Bhavarth-khairnar/Internship-Project-1/assets/156211565/c03ca2cd-c8c2-4a4f-a34a-6a8d34648942)
-)
+
+
+
 
 ## Getting Started
 
