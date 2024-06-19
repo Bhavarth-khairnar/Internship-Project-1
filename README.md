@@ -12,9 +12,11 @@ A responsive and attractive front-end interface for displaying third-party adver
 
 ## Screenshots
 
-![Homepage](![Screenshot 2024-03-13 163147](https://github.com/Bhavarth-khairnar/Internship-Project-1/assets/156211565/c03ca2cd-c8c2-4a4f-a34a-6a8d34648942)
+[Homepage](![Screenshot 2024-03-13 163147](https://github.com/Bhavarth-khairnar/Internship-Project-1/assets/156211565/c03ca2cd-c8c2-4a4f-a34a-6a8d34648942)
 )
-![Ad Display](![Screenshot 2024-03-13 163229](https://github.com/Bhavarth-khairnar/Internship-Project-1/assets/156211565/cc2a367a-bc40-4ca5-bfb5-bb886f5e450a)
+[Ad Display](![Screenshot 2024-03-13 163229](https://github.com/Bhavarth-khairnar/Internship-Project-1/assets/156211565/cc2a367a-bc40-4ca5-bfb5-bb886f5e450a)
+)
+[Counting Page](![Screenshot 2024-03-13 163147](https://github.com/Bhavarth-khairnar/Internship-Project-1/assets/156211565/c03ca2cd-c8c2-4a4f-a34a-6a8d34648942)
 )
 
 ## Getting Started
@@ -46,19 +48,16 @@ Follow these instructions to set up and run the project locally.
 ### Project Structure
 
 css/
-styles.css # CSS file for styling
+styles.css for styling
 
 js/
-scripts.js # JavaScript file for handling ad logic
+scripts.js for handling ad logic
 
-index.html # Main HTML file
+index.html main HTML file
 
-README.md # Project README file
+README.md Project README file
 
-gitignore # Git ignore file
-
-markdown
-Copy code
+gitignore Git ignore file
 
 ### Usage
 
