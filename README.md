@@ -5,9 +5,10 @@ A responsive and attractive front-end interface for displaying third-party adver
 
 ## Features
 
-- Display advertisements in various platforms (whatsapp , instagram , linkdun , facebook , youtube , etc ).
+- Display advertisements in various platforms (whatsapp , instagram , linkdin , facebook , youtube , etc ).
 - Responsive design for optimal viewing on different devices.
 - Easy integration with third-party ad networks.
+- Fully dynamic webpage with all different devices. 
 
 
 ## Screenshots
